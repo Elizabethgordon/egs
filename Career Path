@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
 <head>
   <meta charset="utf-8">
   <title>Career Path</title>
 </head>
-
 <body>
   <table cellspacing="20">
     <thead>
@@ -43,10 +41,8 @@
             <TD>2022🖥</TD>
           </TR>
       </table>
-
       <br />
       <center>
-        <a href="INDEX.html">Home Index</a>
+        <a href="index.html">Home Index</a>
       </center>
-
 </html>
