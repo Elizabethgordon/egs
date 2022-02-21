@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
 <head>
   <h3>HTML INPUTS</h3>
   <meta charset="utf-8">
   <title>HTML INPUTS</title>
 </head>
-
 <body>
   <form>
     <label>Name:</label>
@@ -19,7 +17,7 @@
   </form>
 </body>
 <FOOTER>
-  <a href="index.html">Home Index</a>
+  <a href="index.html" >Home Index</a>
 </FOOTER>
 
 </html>
